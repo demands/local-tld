@@ -7,7 +7,7 @@
         <key>ProgramArguments</key>
         <array>
                 <string>{{NODE_EXECUTABLE}}</string>
-                <string>{{NODE_ROOT}}/local-tld/bin/local-tld-service</string>
+                <string>{{NODE_ROOT}}/local-tld-nvm/bin/local-tld-service</string>
         </array>
         <key>KeepAlive</key>
         <true/>
